@@ -4,3 +4,5 @@ Saving
 ## Edited on locally
 SHA256:6SFGQBhnHVjp/ekBpdnG10/k5zzRMPt+dWcnf6dErTQ sicarime@yahoo.com
 more text
+## local Development
+1. Open index.html in your browser
